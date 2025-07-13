@@ -21,7 +21,6 @@ The system is built from scratch and includes:
 - Kingma and Welling, [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114), *ICLR 2014*.
 - Van den Oord et al., [Neural Discrete Representation Learning (VQ-VAE)](https://arxiv.org/abs/1711.00937), *NeurIPS 2017*.
 - Ronneberger et al., [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597), *MICCAI 2015*.
-- [Zhang et al., ICCV 2021] Designing a Practical Degradation Model for Deep Blind Image Super-Resolution. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Designing_a_Practical_Degradation_Model_for_Deep_Blind_Image_Super-Resolution_ICCV_2021_paper.pdf)
 ---
 
 ##  Project Components
