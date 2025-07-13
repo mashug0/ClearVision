@@ -74,11 +74,10 @@ ClearVision/
 ├── scraper/             # Selenium-based image scraping scripts
 ├── Degrador/            # Custom image degradation pipeline
 ├── data/                # Raw and corrupted datasets
-│   ├── raw_images/      # Original high-quality images
-│   └── degraded/        # Processed low-quality pairs
-│
-├── clearvisionnb.ipynb  # Model training notebook
-└── README.md            # Project documentation
+│   ├── Clean/      # Original high-quality images
+│   └── Corrupted/        # Processed low-quality pairs  
+clearvisionnb.ipynb  # Model training notebook
+README.md            # Project documentation
 </pre>
 
 
