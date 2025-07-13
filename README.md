@@ -67,12 +67,14 @@ The system is built from scratch and includes:
 ---
 
 ## 📁 Directory Structure
+'''
 ClearVision/
 ├── scraper/ # Selenium-based image scraping scripts
 ├── Degrador/ # Custom image degradation pipeline and dataset pairing
 ├── data/ # Raw and corrupted datasets
 ├── clearvisionnb.ipynb # Notebook containing model, training code, and results
 └── README.md # Project documentation
+'''
 
 ## Limitations and Future Work
 
