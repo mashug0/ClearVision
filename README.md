@@ -1,6 +1,6 @@
 # ClearVision: A VAE-Based Framework for Blind Image Restoration
 
-**ClearVision** is a deep generative image restoration system developed as part of the **Summer Projects 2025** under the Coding Club of XYZ University. The project addresses the challenge of restoring high-quality images from visually degraded inputs using a custom corruption pipeline and a VAE-based restoration model.
+**ClearVision** is a deep generative image restoration system developed as part of the **Summer Projects 2025** under the Coding Club of IIT Guwahati. The project addresses the challenge of restoring high-quality images from visually degraded inputs using a custom corruption pipeline and a VAE-based restoration model.
 
 ---
 
